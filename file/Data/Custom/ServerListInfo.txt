@@ -1,0 +1,11 @@
+// ----------------------------------------------------------------------------------
+//    Server      SubServer   Server
+//   Name      Number      Text
+// ----------------------------------------------------------------------------------
+   "Quảng Ninh"   1      "Sub 1 - Giao Dịch"
+   "Quảng Ninh"   2      "Sub 2 - NonPK-Train"
+   "Quảng Ninh"   3      "Sub 3 - PK-Train"
+   "Quảng Ninh"   4      "Sub 4 - Event-PK-Train"
+   "Quảng Ninh"   19     "Sub 20 - Công Thành Chiến"
+  
+end
